@@ -1,0 +1,11 @@
+D:\muhammed\تالتة ترم اول\Graphics\Project\Project\bin\Debug\Project.exe.config
+D:\muhammed\تالتة ترم اول\Graphics\Project\Project\bin\Debug\Project.exe
+D:\muhammed\تالتة ترم اول\Graphics\Project\Project\bin\Debug\Project.pdb
+D:\muhammed\تالتة ترم اول\Graphics\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\muhammed\تالتة ترم اول\Graphics\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\muhammed\تالتة ترم اول\Graphics\Project\Project\obj\Debug\Project.Form1.resources
+D:\muhammed\تالتة ترم اول\Graphics\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\muhammed\تالتة ترم اول\Graphics\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\muhammed\تالتة ترم اول\Graphics\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\muhammed\تالتة ترم اول\Graphics\Project\Project\obj\Debug\Project.exe
+D:\muhammed\تالتة ترم اول\Graphics\Project\Project\obj\Debug\Project.pdb
